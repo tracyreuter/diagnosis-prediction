@@ -1,2 +1,3 @@
 # diagnosis-prediction
-Predict a binary outcome (diagnosis) via support vector machine
+
+Using the sklearn cancer dataset, build a Support Vector Machine (SVM) classifier to predict a binary outcome (diagnosis).
